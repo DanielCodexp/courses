@@ -10,9 +10,7 @@ import { MaterialModule } from 'src/app/material.module';
   declarations: [
     HomeComponent
   ],
-  exports:[
-    HomeComponent
-  ],
+
 
   imports: [
     CommonModule,
